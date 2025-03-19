@@ -35,3 +35,6 @@ def student_id(id):
 
 if __name__ == '__main__':
     Todo.run(host='127.0.0.1',port=5000,debug=True)
+
+# run app.py
+# open browser and type http://
