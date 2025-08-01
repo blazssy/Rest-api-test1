@@ -1,2 +1,3 @@
-# Rest-api-test1
-project phase-1
+#Python Practise 
+##Mini projects in python
+
